@@ -1,0 +1,20 @@
+{
+  "name": "Progressive Web App Demo for Web Summer Camp 2017",
+  "short_name": "#websc PWA",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#faf8fd",
+  "theme_color": "#663399",
+  "icons": [
+    {
+      "src": "./pwa-icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./pwa-icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
